@@ -7,15 +7,13 @@ I'm S M Mazharul Islam from Bangladesh, and I do content on Design and Developme
 
 
 ## Skill and Experience
-* HTML 
-* CSS
-* JavaScript
-* React Js 
-* React Native
-* Node Js
-* MongoDB
+*  HTML & CSS
+*  JavaScript
+*  React Js & React Native
+*  Node Js
+*  MongoDB
  
-- 🔭 I’m currently working on this page. 
+
 
 
 
