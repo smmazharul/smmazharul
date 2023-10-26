@@ -5,7 +5,7 @@
 
 Skills:  React JS / JS / HTML / CSS/Tailwind CSS/Bootstrap
 
-- 🌱 I’m currently learning React Js  
+- 🌱 I’m currently learning React Js, Redux, Node.js MongoDB, Express.Js 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Front-End Development  
 
