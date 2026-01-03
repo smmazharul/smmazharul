@@ -1,21 +1,4 @@
-### Hi there 👋, I am S M Mazharul Islam
-#### I am a Front-End Developer
 
-![Background](https://media.licdn.com/dms/image/D5616AQHjVzWpjb365g/profile-displaybackgroundimage-shrink_350_1400/0/1698163298246?e=1703721600&v=beta&t=dMGY6TnpSubPVrxMHGq53xYZXiUwMc-dPmJ3pttGH18)
-
----
-
-### Skills
-React JS | JavaScript | HTML | CSS | Tailwind CSS | Bootstrap
-
----
-
-### About Me
-- 🌱 I’m currently learning **React JS, Redux, Node.js, MongoDB, Express.js**  
-- 👯 I’m looking to collaborate on **GitHub projects**  
-- 💬 Ask me about **Front-End Development**  
-
----
 
 ### Connect with me
 
